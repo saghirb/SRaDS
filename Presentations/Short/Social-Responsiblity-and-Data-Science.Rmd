@@ -1,0 +1,131 @@
+---
+title: "Social Responsibility and Data Science"
+author: "Saghir Bashir & Andreia Carlos"
+date: "10th December 2018"
+output:
+  xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js
+    css: [default, robot-fonts]
+    self_contained: true
+    # lib_dir: libs
+    # https://github.com/gnab/remark/wiki/Configuration
+    nature:
+      ratio: 16:9
+      highlightStyle: default
+      highlightLanguage: r
+      highlightLines: true
+      highlightSpans: false
+      countIncrementalSlides: false
+      slideNumberFormat: "%current%"
+    seal: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(xaringan)
+```
+
+class: inverse, middle, center
+
+# Social Responsibility <br>and Data Science
+
+<br>
+
+### Saghir Bashir & Andreia Carlos
+
+---
+class: middle, center
+
+# We are Living in the 
+
+# Information Age
+
+---
+class: middle, center
+
+# Data Driven Decisions
+
+# Targeted Goods and Services
+
+
+---
+class: middle, center
+
+# Data Opportunities
+
+# Data Risks
+
+---
+class: inverse, middle, center
+
+# We are Living in the 
+
+# Mis-information Age
+
+
+---
+class: middle, center
+
+# Honesty
+
+# Accuracy 
+
+# Reliability
+
+# Transparency
+
+
+---
+class: inverse middle, center
+
+# Socially Responsible Data Science
+
+# Being Accountable and Trustworthy
+
+
+---
+class: inverse, middle, center
+
+# Social Inclusion & Data Science
+
+---
+class: middle, center
+
+.pull-left[
+## Opportunity
+
+## Data Quality
+
+## Increase Value
+]
+--
+.pull-right[
+## Leverage Resources
+
+## Homeless
+
+## Disadvantaged Groups
+]
+
+---
+class: middle, center
+
+.pull-left[
+## Future Investment
+
+## Data Skills
+
+## Data Education
+
+## Data Vision
+]
+--
+.pull-right[
+## Future Today
+
+## Girls & Minorities
+
+## Deprived Communities
+
+## Knowledge Sharing
+]
