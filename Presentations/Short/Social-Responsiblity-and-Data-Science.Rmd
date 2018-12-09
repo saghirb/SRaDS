@@ -80,7 +80,9 @@ class: inverse middle, center
 
 # Socially Responsible Data Science
 
-# Being Accountable and Trustworthy
+# Accountability 
+
+# Trustworthiness
 
 
 ---
@@ -129,3 +131,10 @@ class: middle, center
 
 ## Knowledge Sharing
 ]
+
+---
+class: inverse, middle, center
+
+# What is Social Responsibilty 
+
+# in Data Science?
