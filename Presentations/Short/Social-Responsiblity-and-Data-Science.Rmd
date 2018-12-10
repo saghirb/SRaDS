@@ -80,6 +80,8 @@ class: inverse middle, center
 
 # Socially Responsible Data Science
 
+<br>
+
 # Accountability 
 
 # Trustworthiness
@@ -88,53 +90,54 @@ class: inverse middle, center
 ---
 class: inverse, middle, center
 
-# Social Inclusion & Data Science
+# Social Inclusion 
+
+# and Data Science
 
 ---
 class: middle, center
 
-.pull-left[
-## Opportunity
+# Opportunities
 
-## Data Quality
+# Higher Quality Data
 
-## Increase Value
-]
---
-.pull-right[
-## Leverage Resources
-
-## Homeless
-
-## Disadvantaged Groups
-]
+# Minimum But Valuable Data
 
 ---
 class: middle, center
 
-.pull-left[
-## Future Investment
+# Leverage Resources
 
-## Data Skills
+# Homeless
 
-## Data Education
+# Disadvantaged Groups
 
-## Data Vision
-]
---
-.pull-right[
-## Future Today
+---
+class: middle, center
 
-## Girls & Minorities
+# Future Investment
 
-## Deprived Communities
+# Data Skills
 
-## Knowledge Sharing
-]
+# Data Education
+
+# Data Vision
+
+---
+class: middle, center
+
+# Future Today
+
+# Girls & Minorities
+
+# Deprived Communities
+
+# Knowledge Sharing
+
 
 ---
 class: inverse, middle, center
 
 # What is Social Responsibilty 
 
-# in Data Science?
+# for Data and Data Science?
